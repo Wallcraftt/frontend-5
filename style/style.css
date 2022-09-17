@@ -94,6 +94,9 @@ footer > div {
 .about-us {
 	font-family: 'BPG Mikheil Stefane',sans-serif;
 	color: #FFFFFF;
-	font-size: ;
+}
 
+iframe {
+	width: 400px;
+	height: 200px;
 }
