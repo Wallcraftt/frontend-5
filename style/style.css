@@ -57,3 +57,26 @@ a {
 h2 {
 	font-family: 'BPG Mikheil Stefane', sans-serif;
 }
+
+div > img {
+	div > img 
+	margin-top: 60px;
+	margin-bottom: 60px;
+	border-radius: 15px;
+	width: 100px;
+}
+
+div > p {
+	color: #171717;
+ 	padding: 20px;
+}
+
+button {
+	color: white;
+	background-color: blue;
+	border-radius: 28px;
+	width: 341px;
+	height: 30px;
+	margin-left: 250px;
+	margin-bottom: 60px;
+}
