@@ -17,10 +17,6 @@ header {
 	background-color: #0020F4;
 }
 
-.logo {
-	padding: 20px;
-}
-
 a {
 	color: #FFFFFF;
 }
@@ -28,6 +24,7 @@ a {
 .logo {
 	vertical-align: middle;
 	padding-right: 350px;
+	padding: 20px;
 }
 .navbar, ul,li {
 	display: inline-block;
@@ -99,4 +96,9 @@ footer > div {
 iframe {
 	width: 400px;
 	height: 200px;
+}
+
+span > p{
+	display: inline;
+	vertical-align: middle;
 }
