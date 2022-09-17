@@ -80,3 +80,20 @@ button {
 	margin-left: 250px;
 	margin-bottom: 60px;
 }
+
+footer{
+	background-color: #0A22F4;
+}
+
+footer > div {
+	width: 800px;
+	margin: auto;
+	color: #FFFFFF;
+}
+
+.about-us {
+	font-family: 'BPG Mikheil Stefane',sans-serif;
+	color: #FFFFFF;
+	font-size: ;
+
+}
