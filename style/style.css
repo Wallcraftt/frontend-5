@@ -56,7 +56,6 @@ h2 {
 }
 
 div > img {
-	div > img 
 	margin-top: 60px;
 	margin-bottom: 60px;
 	border-radius: 15px;
@@ -108,3 +107,8 @@ span > p{
 	display: inline-block;
 
 }
+
+.link {
+	padding-left: 800px;
+}
+
