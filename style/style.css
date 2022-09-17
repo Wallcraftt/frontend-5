@@ -102,3 +102,9 @@ span > p{
 	display: inline;
 	vertical-align: middle;
 }
+
+.send {
+	padding-left: 800px;
+	display: inline-block;
+
+}
